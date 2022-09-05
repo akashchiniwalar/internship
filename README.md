@@ -1,10 +1,5 @@
 ## SUPERSTORE SALES MANAGEMENT SYSTEM - DBMS PROJECT
 
-[![author](https://img.shields.io/badge/author-Abhishek-ff69b4.svg?style=flat-square)](https://www.linkedin.com/in/abhishekmali/)
-[![GitHub followers](https://img.shields.io/github/followers/AbhishekMali21?style=social)](https://github.com/AbhishekMali21?tab=followers)
-[![GitHub watchers](https://img.shields.io/github/watchers/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT?style=social)](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/watchers)
-[![GitHub stars](https://img.shields.io/github/stars/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT?style=social)](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT?style=social)](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/network/members)
 
 ![GitHub language count](https://img.shields.io/github/languages/count/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT?style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT?logoColor=9cf&style=flat-square)
