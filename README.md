@@ -23,11 +23,6 @@
 * Super store is an Indian retail store that operates as a chain of hypermarkets.
 * It is one of the oldest and largest hypermarket chain of India, housing about 150+ stores over 60 cities and towns of the country. It has wide range of categories such as Groceries, Clothing & Fashion, Furniture, Electronics,Office Supplies, Cosmetics, Kitchen & Dining utilities and many more
 
-### AUTHORS
-
-- [@AbhishekMali21](https://github.com/AbhishekMali21) - **ABHISHEK MALI**
-- [@ManishHundekar](https://github.com/manishhundekar) - **MANISH HUNDERKAR**
-- [@NishchithKulkarni](https://github.com/NishchithKulkarni) - **NISCHINTH KULKARNI**
 
 ### OBJECTIVES
 1. Maintains the details of Sales by Store/Region/State 
