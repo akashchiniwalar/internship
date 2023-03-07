@@ -28,7 +28,7 @@
 <div class="hero-image">
   <div class="hero-text">
 
-    <h1 style="font-size:60px;color:green"><b>Welcome to Super1</h1>
+    <h1 style="font-size:60px;color:green"><b>Welcome to Superstore</h1>
     <h2 style="color:blue;font-size:40px"><u><b>Login </h2>
     <a href="admin/dlogin.php"> <button style="font-size:25px ;background-color:#BB8FCE">Admin Login</button></a>
     <a href="slogin.php"> <button style="font-size:25px ;background-color:#BB8FCE">Store Login</button></a>
